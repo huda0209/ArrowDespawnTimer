@@ -1,0 +1,22 @@
+name: ArrowDespawnTimer
+version: '${version}'
+description: Control the time for arrows to despawn.
+main: com.github.huda0209.arrowdespawntimer.ArrowDespawnTimer
+api-version: 1.18
+prefix: ArrowDespawnTimer
+authors: [ huda0209 ]
+website: https://github.com/huda0209/ArrowDespawnTimer
+commands:
+  ArrowDespawnTimer:
+    description: ArrowDespawnTimer plugin command.
+    usage:
+      §3> §a/ArrowDespawnTimer setTime <time> §f- §bSet the time for the arrow to despawn.\n
+      §3> §a/ArrowDespawnTimer info §f- §bShow this plugin's infomation.\n
+      §3> §a/ArrowDespawnTimer reload §f- §bReload the config file.\n
+    aliases:
+      - adt
+    permission: ArrowDespawnTimer.run
+    permission-message: §cYou don't have a permission!
+permissions:
+  ArrowDespawnTimer.run:
+    default: op

@@ -1,0 +1,12 @@
+#  -------------------------------------------------------------
+#  |                     ArrowDwspawnTimer                     |
+#  |                                                           |
+#  |                     Author : huda0209                     |
+#  |                       Depend : NONE                       |
+#  |  GitHub : https://github.com/huda0209/ArrowDespawnTimer   |
+#  |                                                           |
+#  |                   ran by spigot 1.18.1                    |
+#  -------------------------------------------------------------
+
+# Specify a time between 1 and 59.
+DespawnTime: 59
