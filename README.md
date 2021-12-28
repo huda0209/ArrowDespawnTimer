@@ -17,7 +17,7 @@ pluginsディレクトリに生成された`config.yml`を開き、矢が何秒�
 ## 提供先
 [prince](https://twitter.com/nog_prince) 2021/12/29
 
-##ライセンス
+## ライセンス
 GPL-3.0 License
 
 ## 作者
